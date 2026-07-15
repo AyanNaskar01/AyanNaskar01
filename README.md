@@ -1,162 +1,183 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8b5cf6&height=200&section=header&text=Ayan%20Naskar&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=CS%20Student%20%7C%20Aspiring%20Data%20Scientist&descAlignY=55&descSize=20" width="100%"/>
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=AYAN%20NASKAR&fontSize=60&fontColor=39FF14&animation=twinkling&fontAlignY=35&desc=Data%20Science%20%7C%20Web%20Dev%20%7C%20Machine%20Learning&descAlignY=55&descSize=20" width="100%"/>
 
+<!-- Typing animation -->
 <a href="https://github.com/AyanNaskar08">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Learning+Data+Science+%26+Machine+Learning;Building+projects+along+the+way;3rd+Year+B.Tech+Student;Exploring+AI+%2B+Web+Development" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Ayan+%F0%9F%91%8B;Data+Science+%2B+ML+Enthusiast;Full+Stack+Web+Developer;Turning+Data+into+Decisions;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=AyanNaskar08&color=8b5cf6&style=flat-square&label=Profile+Views" />
-<img src="https://img.shields.io/github/followers/AyanNaskar08?color=8b5cf6&style=flat-square&label=Followers" />
+<img src="https://komarev.com/ghpvc/?username=AyanNaskar08&label=Profile%20Views&color=39FF14&style=for-the-badge" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/AyanNaskar08?label=Followers&style=for-the-badge&color=ff00ff&logo=github" alt="Followers"/>
+
+</div>
+
+<br/>
+
+<!-- ABOUT -->
+## 🧬 &nbsp;About Me
+
+```yaml
+name: Ayan Naskar
+role: Data Science • Machine Learning • Web Development
+focus:
+  - Building end-to-end ML pipelines and data-driven applications
+  - Crafting fast, responsive full-stack web experiences
+  - Exploring deep learning, NLP, and predictive modeling
+currently_learning: [ "Advanced ML Ops", "System Design", "Cloud Deployment" ]
+fun_fact: "I debug with print statements and I'm not ashamed 😄"
+```
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1500&color=FF00FF&center=true&vCenter=true&width=500&lines=%22Talk+is+cheap.+Show+me+the+code.%22+-+Linus+Torvalds" alt="quote"/>
+</div>
+
+---
+
+<!-- TECH STACK -->
+## ⚡ &nbsp;Tech Arsenal
+
+<div align="center">
+
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,html,css&theme=dark" />
 
 <br/><br/>
 
-<a href="https://ayannaskar08.github.io/AyanNaskar08/game/">
-  <img src="https://img.shields.io/badge/▶_PLAY_THE_SNAKE_GAME-8b5cf6?style=for-the-badge&logoColor=white" />
-</a>
+**Data Science & ML**
+<br/>
+<img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,sklearn&theme=dark" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=39FF14" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=39FF14" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=39FF14" />
+
+<br/><br/>
+
+**Web Development**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,flask,django,tailwind&theme=dark" />
+
+<br/><br/>
+
+**Tools & Platforms**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,linux,figma&theme=dark" />
 
 </div>
+
+---
+
+<!-- GITHUB STATS -->
+## 📊 &nbsp;GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AyanNaskar08&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=FF00FF&text_color=c9d1d9&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyanNaskar08&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=c9d1d9"/>
 
 <br/>
 
-## Who I Am
-
-```ts
-const ayanNaskar = {
-  title: "CS Student",
-  tagline: "Aspiring Data Scientist",
-  stack: {
-    languages: ["Python", "JavaScript", "HTML5", "CSS3"],
-    dataScience: ["Pandas", "NumPy", "Scikit-learn", "Jupyter Notebook"],
-    tools: ["Git", "GitHub", "VS Code"]
-  },
-  launchedProjects: ["Ai-Resume-Analyzer", "nova-storefront"],
-  certifications: [],
-  status: "Learning data science and machine learning, building projects along the way",
-  openTo: ["Collaborating on ML & web projects", "Internships"]
-}
-```
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AyanNaskar08&theme=highcontrast&hide_border=true&background=0D1117&stroke=39FF14&ring=FF00FF&fire=FF00FF&currStreakLabel=39FF14"/>
 
 <br/>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=8b5cf6&height=2&section=header" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AyanNaskar08&theme=react-dark&hide_border=true&bg_color=0D1117&color=39FF14&line=FF00FF&point=ffffff" width="100%"/>
+
 </div>
 
-## Featured Projects
+---
 
-### Ai-Resume-Analyzer
-
-An AI-powered tool that analyzes resumes and gives feedback to help improve job-readiness.
+<!-- FEATURED PROJECTS -->
+## 🚀 &nbsp;Featured Projects
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AyanNaskar08&repo=Ai-Resume-Analyzer&theme=nord&border_color=8b5cf6&title_color=8b5cf6" />
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔮 [Project One Name](https://github.com/AyanNaskar08)
+Short description of what this project does — the problem it solves and why it matters.
+
+`Python` `Scikit-learn` `Pandas`
+
+</td>
+<td width="50%">
+
+### 🌐 [Project Two Name](https://github.com/AyanNaskar08)
+Short description of this full-stack / web project — key features in a line.
+
+`React` `Node.js` `MongoDB`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🤖 [Project Three Name](https://github.com/AyanNaskar08)
+Short description of an ML/DL project — model type, dataset, accuracy/result.
+
+`TensorFlow` `OpenCV` `Flask`
+
+</td>
+<td width="50%">
+
+### 📈 [Project Four Name](https://github.com/AyanNaskar08)
+Short description of a data analysis / dashboard project.
+
+`Python` `Matplotlib` `Streamlit`
+
+</td>
+</tr>
+</table>
+
 </div>
 
-| Layer | Technology |
-|---|---|
-| Frontend | HTML, CSS |
-| Logic | Python |
+> 💡 *Replace the project names, links, and descriptions above with your real repos — I've left them as placeholders since I couldn't pull your live repo list.*
 
-[Code](https://github.com/AyanNaskar08/Ai-Resume-Analyzer)
+---
 
+<!-- PINNED / TROPHIES -->
+## 🏆 &nbsp;GitHub Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=AyanNaskar08&theme=algolia&no-frame=true&row=1&column=6&margin-w=15&bg=0D1117&title_color=39FF14&text_color=c9d1d9&icon_color=FF00FF"/>
+</div>
+
+---
+
+<!-- SNAKE ANIMATION -->
+## 🐍 &nbsp;Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/AyanNaskar08/AyanNaskar08/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</div>
+
+> ⚙️ *This snake animation needs a one-time GitHub Action set up in a repo named exactly `AyanNaskar08` (same as your username) — ask me and I'll generate the workflow file for you.*
+
+---
+
+<!-- CONNECT -->
+## 📡 &nbsp;Let's Connect
+
+<div align="center">
+
+<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=39FF14"/></a>
+<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-39FF14?style=for-the-badge&logo=vercel&logoColor=black"/></a>
+
+</div>
+
+<div align="center">
 <br/>
-
-### nova-storefront
-
-A modern e-commerce storefront UI built with HTML, CSS, and JavaScript.
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AyanNaskar08&repo=nova-storefront&theme=nord&border_color=8b5cf6&title_color=8b5cf6" />
-</div>
-
-| Layer | Technology |
-|---|---|
-| Frontend | HTML, CSS, JavaScript |
-
-[Code](https://github.com/AyanNaskar08/nova-storefront)
-
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=8b5cf6&height=2&section=header" width="100%"/>
-</div>
-
-## Tech Stack
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=python,javascript,html,css" />
-
-**Data Science / AI**
-
-<img src="https://skillicons.dev/icons?i=py,sklearn,jupyter" />
-
-**Dev Tools**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=8b5cf6&height=2&section=header" width="100%"/>
-</div>
-
-## GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AyanNaskar08&show_icons=true&theme=nord&border_color=8b5cf6&title_color=8b5cf6&text_color=c4b5fd&icon_color=8b5cf6" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyanNaskar08&layout=compact&theme=nord&border_color=8b5cf6&title_color=8b5cf6&text_color=c4b5fd" width="48%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
 </div>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com/?user=AyanNaskar08&theme=nord&border=8b5cf6&ring=8b5cf6&fire=8b5cf6&currStreakLabel=8b5cf6" />
+<i>⚡ "Code. Break. Fix. Repeat." ⚡</i>
 </div>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=AyanNaskar08&theme=nord&no-frame=true&no-bg=true&column=7" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AyanNaskar08&theme=nord&color=8b5cf6&line=8b5cf6&point=c4b5fd" width="100%"/>
-</div>
-
-<br/>
-
-## Contribution Snake
-
-A snake that eats through my actual contribution graph, regenerated daily by GitHub Actions.
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AyanNaskar08/AyanNaskar08/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/AyanNaskar08/AyanNaskar08/output/github-contribution-grid-snake.svg" width="100%" />
-</picture>
-</div>
-
-<br/>
-
-## 3D Contribution Calendar
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/AyanNaskar08/AyanNaskar08/output/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=8b5cf6&height=2&section=header" width="100%"/>
-</div>
-
-## Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-8b5cf6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayan-naskar-166468323)
-[![Instagram](https://img.shields.io/badge/Instagram-8b5cf6?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ayannaskar__/)
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8b5cf6&height=120&section=footer&animation=twinkling" width="100%"/>
