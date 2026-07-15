@@ -1,17 +1,17 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F2937,50:24292E,100:0D1117&height=220&section=header&text=AYAN%20NASKAR&fontSize=55&fontColor=58A6FF&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20%7C%20Web%20Dev%20%7C%20Machine%20Learning&descAlignY=55&descSize=18&descColor=A371F7" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:000000&height=220&section=header&text=AYAN%20NASKAR&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20%7C%20Web%20Dev%20%7C%20Machine%20Learning&descAlignY=55&descSize=18&descColor=CCCCCC" width="100%"/>
 
 <!-- Typing animation -->
 <a href="https://github.com/AyanNaskar08">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Ayan+%F0%9F%91%8B;Data+Science+%2B+ML+Enthusiast;Full+Stack+Web+Developer;Turning+Data+into+Decisions;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Ayan+%F0%9F%91%8B;Data+Science+%2B+ML+Enthusiast;Full+Stack+Web+Developer;Turning+Data+into+Decisions;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=AyanNaskar08&label=Profile%20Views&color=58A6FF&style=flat-square" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/AyanNaskar08?label=Followers&style=flat-square&color=A371F7&logo=github" alt="Followers"/>
+<img src="https://komarev.com/ghpvc/?username=AyanNaskar08&label=Profile%20Views&color=000000&style=flat-square" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/AyanNaskar08?label=Followers&style=flat-square&color=000000&logo=github&logoColor=white" alt="Followers"/>
 
 </div>
 
@@ -38,30 +38,30 @@ fun_fact: "I debug with print statements and I'm not ashamed 😄"
 
 **Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,html,css" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,html,css&theme=dark" />
 
 <br/><br/>
 
 **Data Science & ML**
 <br/>
-<img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,opencv,r" />
+<img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,opencv,r&theme=dark" />
 <br/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--Learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=plotly&logoColor=white" />
 
 <br/><br/>
 
 **Web Development**
 <br/>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,flask,django,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,flask,django,tailwind&theme=dark" />
 
 <br/><br/>
 
 **Tools & Platforms**
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,linux,figma" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,linux,figma&theme=dark" />
 
 </div>
 
@@ -71,16 +71,16 @@ fun_fact: "I debug with print statements and I'm not ashamed 😄"
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=AyanNaskar08&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=A371F7&text_color=c9d1d9&count_private=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyanNaskar08&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=AyanNaskar08&show_icons=true&theme=github-dark&hide_border=true&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=CCCCCC&count_private=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyanNaskar08&layout=compact&theme=github-dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=CCCCCC"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AyanNaskar08&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=A371F7&fire=A371F7&currStreakLabel=58A6FF"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AyanNaskar08&theme=github-dark-blue&hide_border=true&background=000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=CCCCCC"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AyanNaskar08&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=A371F7&point=ffffff" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AyanNaskar08&theme=github-compact&hide_border=true&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area_color=333333" width="100%"/>
 
 </div>
 
@@ -138,7 +138,7 @@ Short description of a data analysis / dashboard project.
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=AyanNaskar08&theme=algolia&no-frame=true&row=1&column=6&margin-w=15&bg=0D1117&title_color=58A6FF&text_color=c9d1d9&icon_color=A371F7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=AyanNaskar08&theme=matrix&no-frame=true&row=1&column=6&margin-w=15&bg=000000&title_color=FFFFFF&text_color=CCCCCC&icon_color=FFFFFF"/>
 </div>
 
 ---
@@ -147,14 +147,14 @@ Short description of a data analysis / dashboard project.
 
 <div align="center">
 
-<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
 </div>
 
 <div align="center">
 <br/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:24292E,100:1F2937&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:000000&height=100&section=footer"/>
 </div>
